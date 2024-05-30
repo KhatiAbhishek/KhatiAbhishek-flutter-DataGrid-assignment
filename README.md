@@ -92,6 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Syncfusion Flutter DataGrid](https://pub.dev/packages/syncfusion_flutter_datagrid) for providing the data grid widget.
 - Flutter and Dart teams for the framework and language.
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out at [abhishek@example.com].
