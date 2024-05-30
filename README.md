@@ -10,8 +10,8 @@ This is a Flutter application for Windows that demonstrates the usage of a data 
 
 ## Screenshots
 
-![Screenshot 1](path/to/your/Image1.png)
-![Screenshot 2](path/to/your/Image2.png)
+![Screenshot 1](Image1.png)
+![Screenshot 2](Image2.png)
 
 ## Getting Started
 
