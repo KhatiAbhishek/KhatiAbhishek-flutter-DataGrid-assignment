@@ -10,8 +10,12 @@ This is a Flutter application for Windows that demonstrates the usage of a data 
 
 ## Screenshots
 
-![Screenshot 1](Image1.png)
-![Screenshot 2](Image2.png)
+<p align="center">
+  <img src="Image1.png" alt="Screenshot 1" width="300"/>
+</p>
+<p align="center">
+  <img src="Image2.png" alt="Screenshot 2" width="300"/>
+</p>
 
 ## Getting Started
 
